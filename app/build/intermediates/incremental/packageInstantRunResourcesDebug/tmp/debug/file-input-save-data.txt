@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 12 20:59:00 COT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ASUS\\AndroidStudioProjects\\Syrus\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=org/threeten/bp/TZDB.dat
+0.set=ASSET
+count=1
